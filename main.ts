@@ -16,6 +16,7 @@ let COL_ORANGE = 0;
 let COL_YELLOW = 20;
 let ERROR = 10;
 let LIGHT_TRESHOLD = 300;
+let ARR_COL = [COL_BLUE, COL_PINK, COL_GREEN, COL_YELLOW];
 
 let color = 60;
 let colorNeopixel = 0;
